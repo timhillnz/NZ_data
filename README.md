@@ -15,4 +15,5 @@ This list contains only those data which I've found interesting, and with which 
 - ####[Ministry of Business, Innovation & Employment](http://www.mbie.govt.nz/)
 
   * [Fuel Price Monitoring](http://www.mbie.govt.nz/info-services/sectors-industries/energy/energy-data-modelling/statistics/prices) - Prices are presented in units typical for each fuel (such as cents/litre for petrol and diesel) and are displayed on a calendar year basis in both real (adjusted for inflation) and nominal terms for all available years. Excel spreadsheet
+  * [Immigration NZ data](https://www.immigration.govt.nz/about-us/research-and-statistics/statistics) - Multiple datasets including arrivals/departures, visa application processing, and work applications.  Excel and PDF
   
